@@ -42,8 +42,13 @@ Expected Result
 When a user is selected in the Assigned To field, the following details automatically appear:
 Department
 Email
-Manager
+ManageR
 
 Conclusion
 
 Import Sets and Dot Walking help automate data import and establish relationships between tables in ServiceNow. This improves efficiency in incident management.
+Import Sets and Dot Walking help automate data import and establish relationships between tables in ServiceNow. This improves efficiency in incident management.
+
+Demo Video link
+
+https://drive.google.com/file/d/1GHAYV55qgkQ1ILnXBaNeXTNDIATyTjFv/view?usp=sharing
